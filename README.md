@@ -45,9 +45,7 @@
 
 <br>
 
-## 🖥️ Preview
-
-## 🖼️ Example Predictions
+## 🖥️ Preview - Example Predictions
 
 ### 🛑 Spam Mail Detected
 ![Spam Example](static/assets/spam.png)
